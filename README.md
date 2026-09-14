@@ -32,20 +32,3 @@ Using SQL in Google BigQuery, I analyzed temperature, precipitation, snow depth,
 ## Dashboard
 
 ![Denver Weather Dashboard](images/denver-weather-dashboard.png)
-
-## Project Structure
-
-```text
-denver-weather-analysis/
-│
-├── README.md
-│
-├── sql/
-│   ├── 01_data_exploration.sql
-│   ├── 02_temperature_analysis.sql
-│   ├── 03_precipitation_snow_analysis.sql
-│   └── 04_weather_relationships.sql
-│
-└── images/
-    └── denver-weather-dashboard.png
-
