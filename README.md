@@ -31,4 +31,5 @@ Using SQL in Google BigQuery, I analyzed temperature, precipitation, snow depth,
 
 ## Dashboard
 
-![Denver Weather Dashboard](images/denver-weather-dashboard.png)
+<img width="1366" height="847" alt="Denver_Weather_Analysis" src="https://github.com/user-attachments/assets/d1b23a15-6307-4ff6-80ba-1583cce3eb48" />
+
