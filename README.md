@@ -21,10 +21,13 @@ Using SQL in Google BigQuery, I analyzed temperature, precipitation, snow depth,
 
 ## Key Findings
 
-- [Add your finding about the warmest and coldest months.]
-- [Add your finding about precipitation patterns.]
-- [Add your finding about snow depth patterns.]
-- [Add your finding about the relationship between temperature and another weather variable.]
+## Key Findings
+
+- **Summer had the highest temperatures**, with August, July, and June recording the highest average temperatures of the year.
+
+- **May recorded the highest precipitation**, while the greatest snow depth was observed during the warmer months of May through August.
+
+- **Temperature and dew point showed a positive relationship**, with dew point generally increasing as temperature increased.
 
 ## Dashboard
 
